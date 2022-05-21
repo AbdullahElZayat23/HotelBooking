@@ -1,0 +1,17 @@
+According to time limitations,
+Some modifications were planned to be included, but there's no time.
+
+Like:
+
+1-JWT.
+2-Microsoft identity.
+3-There are model state validations on both API and Client sides,
+but it needs to be strengthened.
+4-Improving UI appearance.
+5-Refactoring the code.
+
+AT the end, there are some bugs that for sure I'm aware of.
+And I know the solution for it but as we know time limitations didn't help.
+
+Hope you like it :).
+
